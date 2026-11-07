@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.pooriaarab/agentic-persona",
+  "name": "io.github.itsryanarmani/agentic-persona",
   "description": "Keep one consistent AI persona across social content.",
   "version": "0.1.0",
   "repository": {
