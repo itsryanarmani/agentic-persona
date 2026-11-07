@@ -10,6 +10,6 @@ Keywords: persona,influencer,brand-voice,agentic-suite,cli,mcp.
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-persona
-- Core contract: https://github.com/pooriaarab/agentic-persona/blob/main/docs/agentic-core.md
+- README: https://github.com/itsryanarmani/agentic-persona
+- Core contract: https://github.com/itsryanarmani/agentic-persona/blob/main/docs/agentic-core.md
 - License: MIT
